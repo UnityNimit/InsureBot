@@ -1,0 +1,16 @@
+# virtual environment folder
+venv/
+# ENV Folders for the api keys
+.env
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
+
+# --- Generated Files ---
+backend/generated_files/
+
+# --- IDE/OS Specific ---
+.vscode/
+.idea/
+.DS_Store
